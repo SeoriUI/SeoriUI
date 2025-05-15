@@ -1,0 +1,12 @@
+[project]
+name = "seoriUI"
+version = "0.1.0"
+description = "High Quality GUI Python Library"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "glfw>=2.9.0",
+    "pillow>=11.2.1",
+    "pyopengl>=3.1.9",
+    "skia-python>=87.8",
+]
